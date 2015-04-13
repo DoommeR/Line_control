@@ -15,7 +15,7 @@ using namespace std;
 
 void 	InitArray	 	(char **arr, int column, int line);
 char 	**GetArray		(int column, int line);
-int 	test_2_2		(char **arr, int column, int line); //В обмен на отчет
+int 	test_2_2		(char **arr, int column, int line); //не нужен
 int 	test_2_3		(char **arr, int column, int line);
 
 int main(int argc, char* argv[])
